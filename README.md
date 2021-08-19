@@ -1,6 +1,7 @@
-### <img src="https://avatars.githubusercontent.com/u/87787046" width="20"/>  Hey there, I'm Leo!
+### <p align=center><img src="https://avatars.githubusercontent.com/u/87787046" width="20"/>  Hey there, I'm Leo!</p><br />
 
-- ℹ️ I'm a teen who codes for fun
-- 🌐 I have a [website](//legomaniac04.github.io/) I tinker around with ([Repo](//github.com/LegoManiac04/legomaniac04.github.io))
-- 😸 You can find me on [Scratch](//scratch.mit.edu/users/LegoManiac04/)
-- 
+<img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="40" align="center"/> I'm a teen who codes for fun <br />
+
+<img src="https://c.tenor.com/IlCvc8FeFKYAAAAi/capoo-bugcat.gif" width="40" align="center"/> I have a [website](//legomaniac04.github.io/) I tinker around with ([Repo](//github.com/LegoManiac04/legomaniac04.github.io)) <br />
+
+<img src="https://c.tenor.com/CJSGt0M6gfIAAAAi/%E5%83%8D%E3%81%8F-%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0.gif" width="40" align="center"/> You can find me on [Scratch](//scratch.mit.edu/users/LegoManiac04/)</p>
