@@ -1,6 +1,6 @@
 ### <p align=center><img src="https://avatars.githubusercontent.com/u/87787046" width="20"/>  Hey there, I'm Leo!</p><br />
 
-<img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="40" align="center"/> I'm a teen who codes for fun <br />
+<img src="https://c.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="40" align="center"/> I code for fun <br />
 
 <img src="https://c.tenor.com/IlCvc8FeFKYAAAAi/capoo-bugcat.gif" width="40" align="center"/> I have a [website](//legomaniac04.github.io/) I tinker around with ([Repo](//github.com/LegoManiac04/legomaniac04.github.io)) <br />
 
