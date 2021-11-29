@@ -6,7 +6,7 @@
   <p>• Code primarily in my free-time for fun</p>
 
 <h3>I am currently...</h3>
-  <p>• Learing and working on a site with Svelte <img src='https://avatars.githubusercontent.com/u/23617963?s=200&v=4' height=15px></p>
+  <p>• Learing and working on a few things with Svelte <img src='https://avatars.githubusercontent.com/u/23617963?s=200&v=4' height=15px></p>
   <p>• Tinkering around with HTML, CSS, and a bit of JS</p>
 
 <h1></h1>
