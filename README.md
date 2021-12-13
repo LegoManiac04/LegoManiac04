@@ -1,3 +1,7 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LegoManiac04&repo=better-studios&theme=monokai&border_radius=8px&hide_border=true&bg_color=30,ffb74d,f08080)](https://github.com/LegoManiac04/better-studios)
+
+
+
 <h1>Hey there, I'm Leo!</h1>
 
 <h3>I...</h3>
@@ -11,5 +15,5 @@
 
 <h1></h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegoManiac04&show_icons=true&theme=calm&border_radius=20px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegoManiac04&theme=calm&layout=compact&border_radius=20px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegoManiac04&show_icons=true&theme=monokai&border_radius=8px&hide_border=true&bg_color=30,ffb74d,f08080)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegoManiac04&theme=monokai&border_radius=8px&hide_border=true&bg_color=30,ffb74d,f08080)](https://github.com/anuraghazra/github-readme-stats)
