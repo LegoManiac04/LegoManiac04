@@ -12,5 +12,5 @@
 
 <h3>My Pins</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LegoManiac04&repo=better-studios&show_owner=true&theme=nord&border_radius=8px&hide_border=true)](https://github.com/LegoManiac04/better-studios) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LegoManiac04&repo=legomaniac04.vercel.app&show_owner=false&theme=nord&border_radius=8px&hide_border=true)](https://github.com/LegoManiac04/legomaniac04.vercel.app) <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MystPi&repo=ninetails&show_owner=true&theme=nord&border_radius=8px&hide_border=true)](https://github.com/MystPi/ninetails)
