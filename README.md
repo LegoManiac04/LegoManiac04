@@ -7,10 +7,10 @@
 
 <h3>My Stats</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegoManiac04&show_icons=true&theme=swift&border_radius=8px&hide_border=true&bg_color=30,ffb74d,f08080)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegoManiac04&layout=compact&theme=swift&border_radius=8px&hide_border=true&bg_color=30,ffb74d,f08080)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegoManiac04&show_icons=true&theme=nord&border_radius=8px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegoManiac04&layout=compact&theme=nord&border_radius=8px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>My Pins</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LegoManiac04&repo=better-studios&show_owner=true&theme=swift&border_radius=8px&hide_border=true&bg_color=30,ffb74d,f08080)](https://github.com/LegoManiac04/better-studios) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MystPi&repo=ninetails&show_owner=true&theme=swift&border_radius=8px&hide_border=true&bg_color=30,ffb74d,f08080)](https://github.com/MystPi/ninetails)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LegoManiac04&repo=better-studios&show_owner=true&theme=nord&border_radius=8px&hide_border=true)](https://github.com/LegoManiac04/better-studios) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MystPi&repo=ninetails&show_owner=true&theme=nord&border_radius=8px&hide_border=true)](https://github.com/MystPi/ninetails)
