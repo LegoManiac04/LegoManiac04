@@ -13,4 +13,4 @@
 <h3>My Pins</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LegoManiac04&repo=legomaniac04.vercel.app&show_owner=false&theme=great-gatsby&bg_color=3949ab,5c6bc0,d81b60&border_radius=8px&hide_border=true)](https://github.com/LegoManiac04/legomaniac04.vercel.app) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MystPi&repo=ninetails&show_owner=true&theme=great-gatsby&bg_color=3949ab,5c6bc0,d81b60&border_radius=8px&hide_border=true)](https://github.com/MystPi/ninetails)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DogCatPuppyLover&repo=typewriter&show_owner=true&theme=great-gatsby&bg_color=3949ab,5c6bc0,d81b60&border_radius=8px&hide_border=true)](https://github.com/MystPi/ninetails)
