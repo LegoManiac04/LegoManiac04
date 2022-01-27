@@ -16,5 +16,5 @@
 <summary>My Pins</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LegoManiac04&repo=legomaniac04.vercel.app&show_owner=false&text_color=182d3a&icon_color=e7c8c6&title_color=F4C430&bg_color=ebf0f0&border_radius=12px&hide_border=true)](https://github.com/LegoManiac04/legomaniac04.vercel.app) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DogCatPuppyLover&repo=typewriter&show_owner=true&text_color=182d3a&icon_color=e7c8c6&title_color=F4C430&bg_color=ebf0f0&border_radius=12px&hide_border=true)](https://github.com/MystPi/ninetails)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DogCatPuppyLover&repo=typewriter&show_owner=true&text_color=182d3a&icon_color=e7c8c6&title_color=F4C430&bg_color=ebf0f0&border_radius=12px&hide_border=true)](https://github.com/DogCatPuppyLover/typewriter)
 </details>
