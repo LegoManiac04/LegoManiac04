@@ -8,13 +8,13 @@
 <details>
 <summary>My Stats</summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegoManiac04&show_icons=true&text_color=182d3a&icon_color=e7c8c6&title_color=F4C430&bg_color=ebf0f0&border_radius=12px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegoManiac04&layout=compact&langs_count=10&text_color=182d3a&icon_color=e7c8c6&title_color=F4C430&bg_color=ebf0f0&border_radius=12px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegoManiac04&show_icons=true&text_color=fcfcfc&icon_color=fcfcfc&title_color=fcfcfc&bg_color=70,ca4571,4f45ca&border_radius=12px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegoManiac04&layout=compact&langs_count=10&text_color=fcfcfc&icon_color=fcfcfc&title_color=fcfcfc&bg_color=70,ca4571,4f45ca&border_radius=12px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </details>
   
 <details>
 <summary>My Pins</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LegoManiac04&repo=legomaniac04.vercel.app&show_owner=false&text_color=182d3a&icon_color=e7c8c6&title_color=F4C430&bg_color=ebf0f0&border_radius=12px&hide_border=true)](https://github.com/LegoManiac04/legomaniac04.vercel.app) <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DogCatPuppyLover&repo=typewriter&show_owner=true&text_color=182d3a&icon_color=e7c8c6&title_color=F4C430&bg_color=ebf0f0&border_radius=12px&hide_border=true)](https://github.com/DogCatPuppyLover/typewriter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LegoManiac04&repo=legomaniac04.vercel.app&show_owner=false&text_color=fcfcfc&icon_color=fcfcfc&title_color=fcfcfc&bg_color=70,ca4571,4f45ca&border_radius=12px&hide_border=true)](https://github.com/LegoManiac04/legomaniac04.vercel.app) <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DogCatPuppyLover&repo=typewriter&show_owner=true&text_color=fcfcfc&icon_color=fcfcfc&title_color=fcfcfc&bg_color=70,ca4571,4f45ca&border_radius=12px&hide_border=true)](https://github.com/DogCatPuppyLover/typewriter)
 </details>
