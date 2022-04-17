@@ -1,4 +1,4 @@
-name: Get Data
+name: Get WIP List
 on:
   schedule:
     - cron: '0 * * * *'
@@ -13,11 +13,11 @@ jobs:
 
       - name: Get WIP list
         run: |
-          curl -X GET 'https://raw.githubusercontent.com/LegoManiac04/wip-list/main/wip.txt' -o ./list.txt
+          curl -X GET 'https://raw.githubusercontent.com/LegoManiac04/wip-list/main/wip.md' -o ./list.md
 
-      - name: Join above.txt, list.txt, and below.txt
+      - name: Join above.md, list.md, and below.md
         run: |
-          cat above.txt list.txt below.txt > test.md
+          cat ./files/above.md list.md ./files/below.md > test.md
 
       - name: Cleanup
         run: |
