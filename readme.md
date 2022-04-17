@@ -1,7 +1,17 @@
 <h1>🇭‌🇮‌ 🇹‌🇭‌🇪‌🇷‌🇪‌, 🇮‌'🇲‌ 🇱‌🇪‌🇴‌</h1>
 
-  <span>I'm a <b><a href='https://scratch.mit.edu/users/LegoManiac04/'>Scratcher</a></b> who enjoys coding in their free time!</span><br>
-  <span>I am currently working on some Svelte and Vue webapps, as well as revamping and moving back to my github.io site :P</span>
+### I am...
+- A **[Scratcher](https://scratch.mit.edu/users/LegoManiac04/)** who enjoys coding in their free time!
+- A lover of front-end dev and everything CSS! <sub><sup>(yes, you heard me right)</sub></sup>
+
+### I am creating...
+- My github.io site! <sub><sup>(again)</sub></sup>
+- A simple and customizable New Tab/Start Page!
+- A LGBTQ+ terms online dictionary!
+- A dashboard-style site for Scratchers!
+
+And other side projects 😜
+
 <h2></h2>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Scratch](https://img.shields.io/badge/Scratch-f8ab3a?logo=scratch&style=for-the-badge&logoColor=fff)  ![Vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=fff) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
