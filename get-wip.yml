@@ -1,0 +1,36 @@
+name: Get Data
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  Sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: Get WIP list
+        run: |
+          curl -X GET 'https://raw.githubusercontent.com/LegoManiac04/wip-list/main/wip.txt' -o ./list.txt
+
+      - name: Join above.txt, list.txt, and below.txt
+        run: |
+          cat above.txt list.txt below.txt > test.md
+
+      - name: Cleanup
+        run: |
+          rm list.txt
+
+      - name: Setup git config
+        run: |
+          git config user.name "SporkelBot"
+          git config user.email "98554370+SporkelBot@users.noreply.github.com"
+          
+      - name: Commit
+        run: |
+          # Stage the file, commit and push
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Updated"
+          git push
