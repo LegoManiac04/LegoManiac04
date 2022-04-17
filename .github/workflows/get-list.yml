@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  Sync:
+  Get:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
@@ -21,7 +21,7 @@ jobs:
 
       - name: Cleanup
         run: |
-          rm list.txt
+          rm list.md
 
       - name: Setup git config
         run: |
