@@ -1,7 +1,7 @@
 name: Get WIP List
 on:
-  schedule:
-    - cron: '0 * * * *'
+  repository_dispatch:
+    types: [list_updated]
   workflow_dispatch:
 
 jobs:
