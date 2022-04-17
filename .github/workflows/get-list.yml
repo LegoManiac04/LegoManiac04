@@ -17,7 +17,7 @@ jobs:
 
       - name: Join above.md, list.md, and below.md
         run: |
-          cat ./files/above.md list.md ./files/below.md > test.md
+          cat ./files/above.md list.md ./files/below.md > readme.md
 
       - name: Cleanup
         run: |
