@@ -1,14 +1,18 @@
 <h1>🇭‌🇮‌ 🇹‌🇭‌🇪‌🇷‌🇪‌, 🇮‌'🇲‌ 🇱‌🇪‌🇴‌</h1>
 
-### I am...
-- A **[Scratcher](https://scratch.mit.edu/users/LegoManiac04/)** who enjoys coding in their free time!
-- A lover of front-end dev and everything CSS! <sub><sup>(yes, you heard me right)</sub></sup>
+<h3>I am...</h3>
+<ul>
+  <li>A <b><a href='https://scratch.mit.edu/users/LegoManiac04/'>Scratcher</a></b> who enjoys coding in their free time!</li>
+  <li>A lover of front-end dev and everything CSS! <sub><sup>(yes, you heard me right)</sub></sup></li>
+</ul>
 
-### I am creating...
-- My github.io site! <sub><sup>(again)</sub></sup>
-- A simple and customizable New Tab/Start Page!
-- A LGBTQ+ terms online dictionary!
-- A dashboard-style site for Scratchers!
+<h3>I am creating...</h3>
+<ul>
+  <li>My github.io site! <sub><sup>(again)</sub></sup>
+  <li>A simple and customizable New Tab/Start Page!
+  <li>A LGBTQ+ terms online dictionary!
+  <li>A dashboard-style site for Scratchers!
+</ul>
 
 And other side projects 😜
 
