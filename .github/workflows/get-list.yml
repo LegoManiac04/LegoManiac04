@@ -1,8 +1,6 @@
 name: Get WIP List
 on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+  push:
 
 jobs:
   Get:
@@ -11,17 +9,9 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
 
-      - name: Get WIP list
+      - name: Join above.md, wip.md, and below.md
         run: |
-          curl -X GET 'https://raw.githubusercontent.com/LegoManiac04/wip-list/main/wip.md' -o ./list.md
-
-      - name: Join above.md, list.md, and below.md
-        run: |
-          cat ./files/above.md list.md ./files/below.md > readme.md
-
-      - name: Cleanup
-        run: |
-          rm list.md
+          cat ./files/above.md ./files/wip.md ./files/below.md > readme.md
 
       - name: Setup git config
         run: |
