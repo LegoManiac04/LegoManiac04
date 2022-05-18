@@ -1,4 +1,5 @@
-<h1>🇭‌🇮‌ 🇹‌🇭‌🇪‌🇷‌🇪‌, 🇮‌'🇲‌ 🇱‌🇪‌🇴‌</h1>
+<img src="https://signature.jupitersleo.repl.co/img.svg?name=LegoManiac04&pronouns=They/Them">
+<h1></h1>
 
 <h3>I am...</h3>
 <ul>
