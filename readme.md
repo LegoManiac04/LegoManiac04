@@ -1,4 +1,4 @@
-<img src="https://signature.jupitersleo.repl.co/img.svg?name=LegoManiac04&pronouns=They/Them">
+<img src="https://signature.jupitersleo.repl.co/img.svg?name=LegoManiac04&pronouns=Leo,%20They/Them">
 <h1></h1>
 
 <h3>I am...</h3>
@@ -9,13 +9,12 @@
 
 <h3>I am creating...</h3>
 <ul>
-  <li>My github.io site! <sub><sup>(again lol)</sub></sup></li>
+  <li>A blog!</li>
   <li>A simple and customizable New Tab/Start Page!</li>
-  <li>A LGBTQ+ terms online dictionary!</li>
-  <li>A dashboard-style site for Scratchers!</li>
+  <li>A portal for the managers of a Scratch studio!</li>
 </ul>
 
-And other side projects 😜
+And other side projects ¯\_(ツ)_/¯
 
 <h2></h2>
 
