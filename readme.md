@@ -14,7 +14,7 @@
   <li>A portal for the managers of a Scratch studio!</li>
 </ul>
 
-And other side projects ¯\_(ツ)_/¯
+And other side projects 🙃
 
 <h2></h2>
 
