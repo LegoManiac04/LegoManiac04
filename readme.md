@@ -1,4 +1,4 @@
-<img src="https://signature.jupitersleo.repl.co/img.svg?name=LegoManiac04&pronouns=Leo,%20They/Them">
+<img src="https://magicsig.vercel.app/api?name=LegoManiac04&pronouns=Leo,%20They/Them">
 <h1></h1>
 
 <h3>I am...</h3>
