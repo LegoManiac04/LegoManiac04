@@ -17,6 +17,6 @@
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegoManiac04&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegoManiac04&layout=compact&theme=blueberry&count_private=true&hide_border=true&langs_count=10" />
   </a>
 </p>
